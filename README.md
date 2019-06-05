@@ -7,3 +7,6 @@ Original Mad Pascal Source:
 http://mads.atari8.info
 
 The Mac OS version is based on Mad Pascal 1.5.8
+
+Compiled with the free pascal compiler:
+fpc -Mdelphi -v -O3 mp.pas
